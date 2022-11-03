@@ -2,7 +2,7 @@
 🏃‍♀️ undergraduate of Data Science and Software in Sunkyunkwan University, Seoul, South Korea
 <br/> 💌  you can contact me via hm20021009@gmail.com .
 ## 💭 I am interested in...
-* Data Journalism
+* Data Analysis
 * Data Visualization
 * Natural Language Processing
 ## 🛠 My Stacks
