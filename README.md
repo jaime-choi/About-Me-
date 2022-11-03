@@ -1,5 +1,5 @@
 # Hi there, I'm Jaime Choi!
-🏃‍♀️ undergraduate of Data Science and Software in Sunkyunkwan University, Seoul, South Korea
+🏃‍♀️ Majoring in Data Science and Software in Sunkyunkwan University, Seoul, South Korea
 <br/> 💌  you can contact me via hm20021009@gmail.com .
 ## 💭 I am interested in...
 * Data Analysis
