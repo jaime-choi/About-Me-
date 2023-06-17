@@ -1,11 +1,12 @@
 # Hi there, I'm Jaime Choi!
-🏃‍♀️ Majoring in Data Science and Software in Sunkyunkwan University, Seoul, South Korea
+🏃‍♀️ Majoring in Data Science and Computer Science in Sunkyunkwan University, Seoul, South Korea
 <br/> 💌  you can contact me via hm20021009@gmail.com .
 ## 💭 I am interested in...
 * Data Analysis
 * Data Visualization
 * Natural Language Processing
-* Machine Learning
+* Computer Vision
+* Deep Learning
 ## 🛠 My Stacks
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 ### Studying
