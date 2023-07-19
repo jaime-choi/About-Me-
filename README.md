@@ -1,6 +1,6 @@
-# Hi there!
-🏃‍♀️ Majoring B.A. of Data Science and Computer Science in Sunkyunkwan University, Seoul, South Korea
-<br/> 📧 contact : hm20021009@gmail.com
+# Hi there! This is Jaime 🥰
+🏃‍♀️ Majoring B.A. in Data Science and Computer Science at Sunkyunkwan University, Seoul, South Korea
+<br/> 📧 contact: hm20021009@gmail.com
 ## 💭 I am interested in...
 * Data Analysis
 * Data Visualization
