@@ -1,4 +1,4 @@
-# Hi, there! This is Jaime Choi 👋🏻
+# Hi, there! This is Haemin(Jaime) Choi 👋🏻
 🏃‍♀️ Studying Data Science and Computer Science at Sunkyunkwan University, Seoul, South Korea
 <br/> 📧 Contact: hm20021009@gmail.com
 ## 💭 I am interested in...
